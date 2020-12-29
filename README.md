@@ -1,4 +1,4 @@
-#DotNetAutomation
+# DotNetAutomation
 
 This Automation project is just for learning purpose which consists of tests for DuckDuckGo, Google and Selenium websites.
 It is build using .NET with Selenium using NUnit framework.
